@@ -11,7 +11,11 @@
 
 //////////////////////////////////////////////////////////////////////////
 // AMyProjectCharacter
-
+//
+///
+/// ///
+/// 
+/// 
 AMyProjectCharacter::AMyProjectCharacter()
 {
 	// Set size for collision capsule
